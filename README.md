@@ -19,10 +19,6 @@
   <a href="https://github.com/raphabarreto/skylab-login-clone/blob/master/LICENSE.md">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
   <a>
-
-  <a href="https://app.netlify.com/sites/skylab-login-clone-raphaelbarreto/deploys">
-    <img alt="License" src="https://api.netlify.com/api/v1/badges/4d73975b-ef60-4539-88dc-8924d6161bb5/deploy-status">
-  <a>
 </p>
 
 
@@ -40,7 +36,7 @@
 ---
 
 ## ✨ Demonstração
-<p >Acesse <a href="https://skylab-login-clone.raphabarreto.com.br/">aqui</a> para ver a demonstração do resultado final.</p>
+<p >Acesse <a href="https://skylab-login-clone.vercel.app/">aqui</a> para ver a demonstração do resultado final.</p>
 
 ---
 
@@ -48,9 +44,9 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
+- [Next.js](https://nextjs.org/)
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Styled Components](https://styled-components.com/)
 
 ---
 ## 💻 Projeto
@@ -98,4 +94,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com 💗 by [Raphael Barreto](https://bit.ly/contato-linkedin) graças à [Rocketseat](https://www.youtube.com/watch?v=-ZV-_7vNRGw)
+Feito com 💗 by [Raphael Barreto](https://bit.ly/contato-linkedin) graças à [Rocketseat](https://www.youtube.com/watch?v=6TEo2AxW-oQ)
