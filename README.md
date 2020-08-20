@@ -1,30 +1,101 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
+  <img alt="UI Clone" title="#delicinha" src=".github/ui-clone.png" width="350px" />
+  <br/>
+</h1>
 
-## Getting Started
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/raphabarreto/skylab-login-clone">
 
-First, run the development server:
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/raphabarreto/skylab-login-clone">
+
+  <a href="https://github.com/raphabarreto/skylab-login-clone/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/raphabarreto/skylab-login-clone">
+  </a>
+
+  <a href="https://github.com/raphabarreto/skylab-login-clone/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/raphabarreto/skylab-login-clone">
+  </a>
+
+  <a href="https://github.com/raphabarreto/skylab-login-clone/blob/master/LICENSE.md">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+  <a>
+
+  <a href="https://app.netlify.com/sites/skylab-login-clone-raphaelbarreto/deploys">
+    <img alt="License" src="https://api.netlify.com/api/v1/badges/4d73975b-ef60-4539-88dc-8924d6161bb5/deploy-status">
+  <a>
+</p>
+
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-instalação">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a>
+</p>
+
+<br>
+
+
+---
+
+## ✨ Demonstração
+<p >Acesse <a href="https://skylab-login-clone.raphabarreto.com.br/">aqui</a> para ver a demonstração do resultado final.</p>
+
+---
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [React](https://reactjs.org)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Styled Components](https://styled-components.com/)
+
+---
+## 💻 Projeto
+Esta aplicação é uma reprodução da página de login do [Skylab](https://app.rocketseat.com.br/), criando e integrando vários componentes da forma mais fiel possível.
+
+---
+
+## 🌐 Resultado
+<h1 align="center">
+    <img alt="Skylab Login Clone" title="#delicinha" src=".github/skylab-login-clone.png" />
+</h1>
+
+## 🔥 Instalação
 
 ```bash
-npm run dev
-# or
-yarn dev
+# Clone este repositório
+$ git clone git@github.com:raphabarreto/skylab-login-clone.git
+
+# Navegue para a pasta raiz do projeto e instale as dependências:
+$ yarn install
+
+# Depois disso, execute o comando:
+$ yarn start
+
+# Vá para o seu navegador e entre com a seguinte URL:
+$ localhost:3000
+
 ```
+---
+## 🤔 Como contribuir
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Faça um fork desse repositório;
+- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
+- Faça push para a sua branch: `git push origin minha-feature`.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🧾 Licença
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Feito com 💗 by [Raphael Barreto](https://bit.ly/contato-linkedin) graças à [Rocketseat](https://www.youtube.com/watch?v=-ZV-_7vNRGw)
